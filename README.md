@@ -1,4 +1,4 @@
-
+![Orgnz](/assets/orgnz.png)
 
 A sleek, all-in-one productivity app for students that runs seamlessly across your iPhone, Mac, and web browser. Drop in your classes, clubs, and tasks, rate how hard they are, and let the app build your game plan. It automatically tackles your heaviest, most brain-draining work during your peak morning energy hours. Orgnz connects straight to your Notion Calendar so your schedule maps out automatically without the busywork. When you finish a task, you drop in your proof (like a PDF of your completed homework) to build a clean, searchable vault of everything you've conquered.
 
